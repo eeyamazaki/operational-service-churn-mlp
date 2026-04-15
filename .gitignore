@@ -1,0 +1,34 @@
+# Dados sensíveis - NUNCA subir ao repositório
+data/raw/
+data/processed/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs e outputs temporários
+*.log
+reports/figures/*.png
+reports/figures/*.pdf
