@@ -8,5 +8,7 @@ lightgbm>=4.0
 imbalanced-learn>=0.12
 shap>=0.45
 pyarrow>=15.0
+mlflow>=2.0
+torch>=2.0
 jupyterlab>=4.0
 ipykernel>=6.0
